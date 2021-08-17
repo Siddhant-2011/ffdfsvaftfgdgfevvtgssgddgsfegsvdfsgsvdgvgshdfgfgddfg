@@ -1,0 +1,42 @@
+body{
+    background-color: orange;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.Froggy{
+    color: black;
+    font-family: 'Open Sans', sans-serif;
+    font-size:15px;
+    
+}
+
+.Mouse{
+    font-size: 17px;
+    background-color: #228b22;
+    color: black;
+}
+
+.mouse_froggy{
+    width: 450px;
+    height: 300px;
+    border:5px solid black;
+    border-radius:15px ;
+  margin-top: 30px;
+margin-left: 70px;
+}
+
+
+canvas{
+    border: 5px solid black;
+    border-radius:15px ;
+}
+
+
+.footer_mouse{
+    width: 100%;
+    position: fixed;
+    bottom:0;
+    background-color: #228b22;
+    line-height: 3;
+    text-align:center;
+}
